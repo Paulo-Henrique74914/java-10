@@ -80,7 +80,7 @@ function transformar(alien) {
     if (alien === 'Insectóide') {
         nome.textContent = 'Insectóide';
         desc.textContent = 'Um alien com habilidades de camuflagem e agilidade!';
-        img.src = 'img/insectóide.png';
+        img.src = 'img/insectoide.png';
         body.style.backgroundColor = '#c7eec5ff';
         efeitoOmnitrix();
     }
